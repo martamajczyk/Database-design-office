@@ -12,13 +12,11 @@ Thanks to the database implementation:
 * based on the analyzes performed, it will be possible to make informed
 business decisions.
 
-
-	
 ## Technologies
 Project is created with:
 * PostgreSQL 
-* Microsoft Excel (+ Power Query and Power Pivot)
-* Clockify App
+* Microsoft Excel (+ Power Query and Power Pivot), .xlsx and .csv files
+* Clockify App, .xlsx and .csv files
 
 ## Sources
 This project is inspired by my own experience as an architect. 
