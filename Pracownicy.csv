@@ -1,8 +1,0 @@
-pracownik_imie;pracownik_nazwisko;pracownik_plec;pracownik_data_urodzenia;pracownik_data_zatrudnienia;pracownik_data_zwolnienia;pracownik_typ_umowy
-Monika;Majewska;K;1994-06-05;2020-07-01;NULL;Umowa o pracê
-Ewelina;Kowalska;K;1996-10-09;2020-07-17;2021-12-31;Umowa o dzie³o
-Wiktoria;Nowak;K;2000-08-12;2022-05-01;2022-12-31;Umowa o dzie³o
-Marika;Jasiñska;K;2001-07-10;2023-01-01;NULL;Umowa zlecenie
-Wanda;Stupiñska;K;1985-11-10;2022-08-01;2022-12-31;Umowa o dzie³o
-Olga;Nowak;K;1996-09-23;2019-07-03;2020-01-31;Umowa o dzie³o
-Anna;Wawrzyniak;K;1990-06-21;2023-11-03;NULL;Kontrakt B2B
